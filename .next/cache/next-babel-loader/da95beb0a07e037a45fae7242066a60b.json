@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { default as gitApi } from \"./git\";","map":{"version":3,"sources":["/home/oleksii/Documents/Programming/BetterMeTest/utils/api/index.ts"],"names":["default","gitApi"],"mappings":"AAAA,SAASA,OAAO,IAAIC,MAApB,QAAkC,OAAlC","sourcesContent":["export { default as gitApi } from \"./git\";\n"]},"metadata":{},"sourceType":"module"}

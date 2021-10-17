@@ -1,1 +1,0 @@
-{"ast":null,"code":"const Search = () => {};\n\nexport default Search;","map":{"version":3,"sources":["/home/oleksii/Documents/Programming/BetterMeTest/components/Search/index.tsx"],"names":["Search"],"mappings":"AAAA,MAAMA,MAAM,GAAG,MAAM,CAAE,CAAvB;;AAEA,eAAeA,MAAf","sourcesContent":["const Search = () => {};\n\nexport default Search;\n"]},"metadata":{},"sourceType":"module"}
